@@ -1,4 +1,4 @@
-````
+
 # Bajaj Finserv Health - Qualifier 1 Submission
 
 ## Project Summary
@@ -63,4 +63,3 @@ To run this application, ensure you have Java and Maven installed. Then, simply 
     ```
 
 The application will execute the entire process automatically and provide a detailed log in the terminal.
-````
